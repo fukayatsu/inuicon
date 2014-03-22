@@ -37,6 +37,7 @@
 			'mola': '&#xe000;',
 			'footprint': '&#xe001;',
 			'inu': '&#xe001;',
+			'paws': '&#xe606;',
 			'nena': '&#xe605;',
 			'kusonemi': '&#xe605;',
 			'suya': '&#xe605;',
